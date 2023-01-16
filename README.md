@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dycode
+- 👋 Hi, I’m @Deepesh yadav
 - 👀 I’m interested in programming and web development.
 - 🌱 I’m currently learning B.C.A.
 - 💞️ I’m looking to collaborate on something new
